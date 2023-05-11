@@ -6,6 +6,6 @@
 
 int main()
 {
-    printf("int 存储大小 : %lu \n", sizeof(int));
+    printf("int �洢��С : %lu \n", sizeof(int));
     return 0;
 }

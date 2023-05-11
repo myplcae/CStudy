@@ -6,10 +6,10 @@
 
 int main()
 {
-    printf("float å­˜å‚¨æœ€å¤§å­—èŠ‚æ•° : %lu \n", sizeof(float));
-    printf("float æœ€å°å€¼: %E\n", FLT_MIN );
-    printf("float æœ€å¤§å€¼: %E\n", FLT_MAX );
-    printf("ç²¾åº¦å€¼: %d\n", FLT_DIG );
+    printf("float ´æ´¢×î´ó×Ö½ÚÊı : %lu \n", sizeof(float));
+    printf("float ×îĞ¡Öµ: %E\n", FLT_MIN );
+    printf("float ×î´óÖµ: %E\n", FLT_MAX );
+    printf("¾«¶ÈÖµ: %d\n", FLT_DIG );
 
     return 0;
 }
