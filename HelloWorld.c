@@ -5,7 +5,7 @@
 
 int main()
 {
-    /* æˆ‘çš„ç¬¬ä¸€ä¸ª C ç¨‹åº */
+    /* ÎÒµÄµÚÒ»¸ö C ³ÌĞò */
     printf("Hello, World! \n");
 
     return 0;

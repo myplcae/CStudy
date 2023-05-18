@@ -6,6 +6,6 @@
 
 int main()
 {
-    printf("int ¥Ê¥¢¥Û–° : %lu \n", sizeof(int));
+    printf("int ???? : %lu \n", sizeof(int));
     return 0;
 }
